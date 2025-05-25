@@ -7,5 +7,4 @@
 - 🌱 I’m currently learning a lot of things; I'm a non-stop learner. My main focus right now is machine learning, data science, and  its cybersecurity applications.
 - 📫 You can reach me on LinkedIn : https://www.linkedin.com/in/derryl-ortiz/
 - 😄 Pronouns: He/Him
-- 
--->
+
